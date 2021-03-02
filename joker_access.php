@@ -1,5 +1,2 @@
-<?php
-{
-  "Active" : "true" , "Links" : "https://www.google.com" ,  "countries" : "UA"
-}
-?>
+{ "Active" : "true" , "Links" : "https://www.google.com" ,  "countries" : "UA"}
+
